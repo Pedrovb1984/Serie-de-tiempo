@@ -1,3 +1,6 @@
-[general]
-email = "tu_correo@ejemplo.com"
-name = "Tu Nombre"
+[theme]
+base = "dark"
+primaryColor = "#00adb5"
+backgroundColor = "#222831"
+secondaryBackgroundColor = "#393e46"
+textColor = "#eeeeee"
